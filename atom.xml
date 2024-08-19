@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-08-18T14:10:29.970Z</updated>
+  <updated>2024-08-19T15:05:10.494Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>xsync以及ssh免密登录配置</title>
+    <link href="http://example.com/2024/08/19/1.xsync%E4%BB%A5%E5%8F%8Assh%E5%85%8D%E5%AF%86%E7%99%BB%E5%BD%95%E9%85%8D%E7%BD%AE/"/>
+    <id>http://example.com/2024/08/19/1.xsync%E4%BB%A5%E5%8F%8Assh%E5%85%8D%E5%AF%86%E7%99%BB%E5%BD%95%E9%85%8D%E7%BD%AE/</id>
+    <published>2024-08-19T14:51:42.000Z</published>
+    <updated>2024-08-19T15:05:10.494Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="今日小结"><a href="#今日小结" class="headerlink" title="今日小结"></a>今日小结</h2><h3 id="今天学习了xsync集群分发脚本-配置完环境后使用xsync-目标路径就可将一台虚拟机的配置文件直接分享到另外几台服务器上，省去了配置的时间消耗，十分的方便快捷。"><a href="#今天学习了xsync集群分发脚本-配置完环境后使用xsync-目标路径就可将一台虚拟机的配置文件直接分享到另外几台服务器上，省去了配置的时间消耗，十分的方便快捷。" class="headerlink" title="今天学习了xsync集群分发脚本,配置完环境后使用xsync+目标路径就可将一台虚拟机的配置文件直接分享到另外几台服务器上，省去了配置的时间消耗，十分的方便快捷。"></a>今天学习了xsync集群分发脚本,配置完环境后使用xsync+目标路径就可将一台虚拟机的配置文件直接分享到另外几台服务器上，省去了配置的时间消耗，十分的方便快捷。</h3><h3 id="不过还是会要输入密码才能获取其他虚拟机的权限，因此我们采用ssh免密登录即可以后都省去输入密码的环节。"><a href="#不过还是会要输入密码才能获取其他虚拟机的权限，因此我们采用ssh免密登录即可以后都省去输入密码的环节。" class="headerlink" title="不过还是会要输入密码才能获取其他虚拟机的权限，因此我们采用ssh免密登录即可以后都省去输入密码的环节。"></a>不过还是会要输入密码才能获取其他虚拟机的权限，因此我们采用ssh免密登录即可以后都省去输入密码的环节。</h3><h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>1.我们先切换到 .ssh的路径下通过ssh-keygen -t rsa获取公钥和私钥。id_rsa（私钥）、id_rsa.pub（公钥） </p><h3 id="-1"><a href="#-1" class="headerlink" title=""></a></h3><p>2.三台虚拟机分别执行ssh-copy-id hadoop102， ssh-copy-id hadoop103 ，ssh-copy-id hadoop104，从而可以获取彼此的免密登录，今后无论是互相登录还是传输文件都不需要在输入密码了，更加的丝滑。<br>###<br>明天继续加油吧！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;今日小结&quot;&gt;&lt;a href=&quot;#今日小结&quot; class=&quot;headerlink&quot; title=&quot;今日小结&quot;&gt;&lt;/a&gt;今日小结&lt;/h2&gt;&lt;h3 id=&quot;今天学习了xsync集群分发脚本-配置完环境后使用xsync-目标路径就可将一台虚拟机的配置文件直接分享到另外几台</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>&#39;学习大数据的碎碎念（记录）&#39;</title>
