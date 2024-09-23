@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-23T08:29:29.724Z</updated>
+  <updated>2024-09-23T08:35:31.403Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2024/09/23/javaday1/"/>
     <id>http://example.com/2024/09/23/javaday1/</id>
     <published>2024-09-22T16:12:14.000Z</published>
-    <updated>2024-09-23T08:29:29.724Z</updated>
+    <updated>2024-09-23T08:35:31.403Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！"><a href="#这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！" class="headerlink" title="这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！"></a>这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天开始学习java，目标一月内搞定，加油呀！！"><a href="#这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天开始学习java，目标一月内搞定，加油呀！！" class="headerlink" title="这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天开始学习java，目标一月内搞定，加油呀！！"></a>这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天开始学习java，目标一月内搞定，加油呀！！</h3>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！&quot;&gt;&lt;a href=&quot;#这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！&quot; cl</summary>
+    <summary type="html">&lt;h3 id=&quot;这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天开始学习java，目标一月内搞定，加油呀！！&quot;&gt;&lt;a href=&quot;#这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天开始学习java，目标一月内搞定，加油呀！！&quot; cl</summary>
       
     
     
@@ -69,26 +69,6 @@
       
       
     <summary type="html">&lt;h3 id=&quot;大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发方向，目前是个小白，想用此网站记录一下自己的学习经历和过程，大家一起加油吧！&quot;&gt;&lt;a href=&quot;#大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2024/08/17/hello-world/"/>
-    <id>http://example.com/2024/08/17/hello-world/</id>
-    <published>2024-08-17T15:58:46.000Z</published>
-    <updated>2024-08-17T15:58:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
