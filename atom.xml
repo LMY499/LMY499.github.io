@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-23T08:24:10.548Z</updated>
+  <updated>2024-09-23T08:29:29.724Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>&#39;666&#39;</title>
-    <link href="http://example.com/2024/09/23/666/"/>
-    <id>http://example.com/2024/09/23/666/</id>
+    <title>开始java的学习~</title>
+    <link href="http://example.com/2024/09/23/javaday1/"/>
+    <id>http://example.com/2024/09/23/javaday1/</id>
     <published>2024-09-22T16:12:14.000Z</published>
-    <updated>2024-09-23T08:24:10.548Z</updated>
+    <updated>2024-09-23T08:29:29.724Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发方向，目前是个小白，想用此网站记录一下自己的学习经历和过程，大家一起加油吧！"><a href="#大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发方向，目前是个小白，想用此网站记录一下自己的学习经历和过程，大家一起加油吧！" class="headerlink" title="大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发方向，目前是个小白，想用此网站记录一下自己的学习经历和过程，大家一起加油吧！"></a>大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发方向，目前是个小白，想用此网站记录一下自己的学习经历和过程，大家一起加油吧！</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！"><a href="#这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！" class="headerlink" title="这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！"></a>这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！</h3>]]></content>
     
     
       
       
-    <summary type="html">&lt;h3 id=&quot;大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发方向，目前是个小白，想用此网站记录一下自己的学习经历和过程，大家一起加油吧！&quot;&gt;&lt;a href=&quot;#大家好，我是一名24级计算机的研究生，研究方向是大数据存储技术，以后想走大数据开发</summary>
+    <summary type="html">&lt;h3 id=&quot;这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！&quot;&gt;&lt;a href=&quot;#这两天学习大数据的时候，在看HDFS时发现需要java的基本功，所以今天可是学习java，目标一月内搞定，加油呀！！&quot; cl</summary>
       
     
     
