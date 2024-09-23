@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-09-23T08:10:19.078Z</updated>
+  <updated>2024-08-19T15:07:09.369Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,26 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>开学继续更新</title>
-    <link href="http://example.com/2024/09/19/%E7%A0%94%E4%B8%80%E5%BC%80%E5%A7%8B%EF%BC%8C%E7%BB%A7%E7%BB%AD%E6%9B%B4%E6%96%B0/"/>
-    <id>http://example.com/2024/09/19/%E7%A0%94%E4%B8%80%E5%BC%80%E5%A7%8B%EF%BC%8C%E7%BB%A7%E7%BB%AD%E6%9B%B4%E6%96%B0/</id>
-    <published>2024-09-19T07:51:42.000Z</published>
-    <updated>2024-09-23T08:10:19.078Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这两天重新学习了蓝桥杯的基本算法，从for循环开始"><a href="#这两天重新学习了蓝桥杯的基本算法，从for循环开始" class="headerlink" title="这两天重新学习了蓝桥杯的基本算法，从for循环开始"></a>这两天重新学习了蓝桥杯的基本算法，从for循环开始</h2><h2 id="接下来的任务就是每天坚持学习算法和大数据开发，每周两篇文献"><a href="#接下来的任务就是每天坚持学习算法和大数据开发，每周两篇文献" class="headerlink" title="接下来的任务就是每天坚持学习算法和大数据开发，每周两篇文献"></a>接下来的任务就是每天坚持学习算法和大数据开发，每周两篇文献</h2><h2 id="加油！！"><a href="#加油！！" class="headerlink" title="加油！！"></a>加油！！</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;这两天重新学习了蓝桥杯的基本算法，从for循环开始&quot;&gt;&lt;a href=&quot;#这两天重新学习了蓝桥杯的基本算法，从for循环开始&quot; class=&quot;headerlink&quot; title=&quot;这两天重新学习了蓝桥杯的基本算法，从for循环开始&quot;&gt;&lt;/a&gt;这两天重新学习了蓝桥杯</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>xsync以及ssh免密登录配置</title>
