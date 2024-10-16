@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-10-11T08:38:01.409Z</updated>
+  <updated>2024-10-16T13:29:00.302Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>字符串的小结</title>
+    <link href="http://example.com/2024/10/16/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+    <id>http://example.com/2024/10/16/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%AD%A6%E4%B9%A0/</id>
+    <published>2024-10-15T16:12:14.000Z</published>
+    <updated>2024-10-16T13:29:00.302Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.equals方法的作用</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">String s1 = new String(chs);</span><br><span class="line">String s2 = new String(chs);</span><br><span class="line">System.out.println(s1.equals(s2));</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>2.substring表示字符串截取<br>例如str.substring(0,3),就是截取前三位<br>str.substring(1)代表除了第一位不截取，其他都截</p><p>3.str.replace（”aaa”,”bbb”）<br>将字符串中的aaa全部转化成bbb</p><p>4.charAt(i)<br>表示截取字符串中的哪一位</p><p>5.StringBuilder<br>StringBuilder 可以看成是一个容器，创建之后里面的内容是可变的。<br>常用语字符串反转或者拼接</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">//1.创建对象</span><br><span class="line">       StringBuilder sb = new StringBuilder(&quot;abc&quot;);</span><br><span class="line"></span><br><span class="line">       //.添加元素</span><br><span class="line">       /*sb.append(1);</span><br><span class="line">       sb.append(2.3);</span><br><span class="line">       sb.append(true);*/</span><br><span class="line"></span><br><span class="line">       //反转</span><br><span class="line">       sb.reverse();</span><br><span class="line"></span><br><span class="line">       //获取长度</span><br><span class="line">       int len = sb.length();</span><br><span class="line">       System.out.println(len);</span><br><span class="line"></span><br></pre></td></tr></table></figure><pre><code>6.链式编程<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">//1.创建对象</span><br><span class="line">    StringBuilder sb = new StringBuilder();</span><br><span class="line"></span><br><span class="line">//2.添加字符串</span><br><span class="line">    sb.append(&quot;aaa&quot;).append(&quot;bbb&quot;).append(&quot;ccc&quot;).append(&quot;ddd&quot;);</span><br></pre></td></tr></table></figure></code></pre><p>7.StringJoiner<br>StringJoiner跟StringBuilder一样，也可以看成是一个容器，创建之后里面的内容是可变的</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">//1.创建一个对象，并指定中间的间隔符号</span><br><span class="line">StringJoiner sj = new StringJoiner(&quot;---&quot;);</span><br><span class="line">//2.添加元素</span><br><span class="line">sj.add(&quot;aaa&quot;).add(&quot;bbb&quot;).add(&quot;ccc&quot;);</span><br><span class="line">//3.打印结果</span><br><span class="line">System.out.println(sj);//aaa---bbb---ccc</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;1.equals方法的作用&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>面向对象小结</title>
